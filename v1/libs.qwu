@@ -1,0 +1,4 @@
+libs:
+    example:
+        latestVersion: 1.0.3
+        filePath: aa.j.dll
